@@ -1,0 +1,88 @@
+﻿Group,Lab,Species,Week,Treatment,Replicate,Order,Family,Genus,FFG,Count
+5,T,american beech,2,C,1,Diptera,Tipulidae,Antocha,CG,5
+5,T,american beech,2,C,1,Ephemeroptera,Baetidae,Baetis,CG,1
+5,T,american beech,2,C,1,Ephemeroptera,Ephemerellidae,Drunella,SC,2
+5,T,american beech,2,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,american beech,2,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,american beech,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,american beech,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+5,T,american beech,2,F,1,Diptera,Tipulidae,Antocha,CG,1
+5,T,american beech,2,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,american beech,2,F,2,Diptera,Tipulidae,,CG,1
+5,T,american beech,2,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+5,T,american beech,4,C,1,Diptera,Chironomidae,(no need to ID),"Many CG, Some P",1
+5,T,american beech,4,C,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,american beech,4,C,1,Plecoptera,Chloroperlidae,,P,3
+5,T,american beech,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+5,T,american beech,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,17
+5,T,american beech,4,C,1,Trichoptera,Phryganeidae,Ptilostomis,SH,1
+5,T,american beech,4,C,3,Coleoptera,Elmidae,Dubiraphia,CG,1
+5,T,american beech,4,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,2
+5,T,american beech,4,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,american beech,4,C,3,Ephemeroptera,Leptophlebiidae,Leptophlebia,CG,1
+5,T,american beech,4,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+5,T,american beech,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+5,T,american beech,4,F,1,Plecoptera,Leuctridae,Leuctra,SH,1
+5,T,american beech,4,F,1,Plecoptera,Perlodidae,Isoperla,P,8
+5,T,american beech,4,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+5,T,american beech,6,C,1,ephemenoptera,heptegeniidae,Stenonema,SC,3
+5,T,american beech,6,C,1,ephemenoptera,leptophlebiidae,Paraleptophlebia,CG,3
+5,T,american beech,6,C,1,Plecoptera,Chloroperlidae,Sweltza,P,1
+5,T,american beech,6,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,9
+5,T,american beech,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,16
+5,T,american beech,6,C,2,Diptera,Chironomidae,(no need to ID),"Many CG, Some P",3
+5,T,american beech,6,C,2,Diptera,Tipulidae,,CG,1
+5,T,american beech,6,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,2
+5,T,american beech,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,american beech,6,C,3,Decapoda,Cambaridae,(no need to ID),CG,1
+5,T,american beech,6,C,3,Diptera,Chironomidae,(no need to ID),"Many CG, Some P",4
+5,T,american beech,6,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,american beech,6,C,3,Plecoptera,Chloroperlidae,,P,3
+5,T,american beech,6,C,3,Plecoptera,Leuctridae,Leuctra,SH,1
+5,T,american beech,6,C,3,Plecoptera,Perlodidae,Isoperla,P,6
+5,T,american beech,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,12
+5,T,american beech,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,14
+5,T,american beech,6,F,1,Diptera,Chironomidae,(no need to ID),"Many CG, Some P",1
+5,T,american beech,6,F,1,Diptera,Chironomidae,,"Many CG, Some P",1
+5,T,american beech,6,F,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,american beech,6,F,1,Plecoptera,Capniidae,Allocapnia,SH,5
+5,T,american beech,6,F,1,Plecoptera,Chloroperlidae,Haploperla,P,2
+5,T,american beech,6,F,1,Plecoptera,Perlodidae,Isoperla,P,22
+5,T,american beech,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+5,T,american beech,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,american beech,6,F,2,Diptera,Chironomidae,,"Many CG, Some P",1
+5,T,american beech,6,F,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,american beech,6,F,2,Plecoptera,Chloroperlidae,Haploperla,P,17
+5,T,american beech,6,F,2,Plecoptera,Perlodidae,Isoperla,P,15
+5,T,american beech,6,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,american beech,6,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,eastern cottonwood,2,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+5,T,eastern cottonwood,2,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,eastern cottonwood,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+5,T,eastern cottonwood,2,C,3,Decapoda,Cambaridae,(no need to ID),CG,1
+5,T,eastern cottonwood,4,C,1,Ephemeroptera,Baetidae,Baetis,CG,1
+5,T,eastern cottonwood,4,C,1,Ephemeroptera,Heptageniidae,Epeorus,SH,1
+5,T,eastern cottonwood,4,C,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,eastern cottonwood,4,C,1,Plecoptera,Chloroperlidae,Haploperla,P,1
+5,T,eastern cottonwood,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+5,T,eastern cottonwood,4,C,3,Diptera,Tipulidae,Antocha,CG,1
+5,T,eastern cottonwood,4,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,3
+5,T,eastern cottonwood,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,eastern cottonwood,4,F,1,Plecoptera,Perlodidae,Isoperla,P,15
+5,T,eastern cottonwood,4,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,eastern cottonwood,6,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,2
+5,T,eastern cottonwood,6,C,1,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,CG,1
+5,T,eastern cottonwood,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,3
+5,T,eastern cottonwood,6,C,1,Plecoptera,Capniidae,Paracapnia,SH,3
+5,T,eastern cottonwood,6,C,1,Plecoptera,Leuctridae,Leuctra,SH,5
+5,T,eastern cottonwood,6,C,1,Plecoptera,Perlodidae,Isoperla,P,5
+5,T,eastern cottonwood,6,C,1,Plecoptera,Taeniopterygidae,Strophopteryx,SH,2
+5,T,eastern cottonwood,6,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+5,T,eastern cottonwood,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,eastern cottonwood,6,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,2
+5,T,eastern cottonwood,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+5,T,eastern cottonwood,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+5,T,eastern cottonwood,6,F,2,Diptera,Chironomidae,(no need to ID),"Many CG, Some P",2
+5,T,eastern cottonwood,6,F,2,Ephemeroptera,Heptageniidae,Stenacron,SC,7
+5,T,eastern cottonwood,6,F,2,Plecoptera,Chloroperlidae,Haploperla,P,3
+5,T,eastern cottonwood,6,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
