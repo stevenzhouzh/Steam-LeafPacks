@@ -1,0 +1,497 @@
+Group,Lab,Leaf_Species,Week,Treatment,Replicate,Order,Family,Genus,FFG,Count
+3,T,Red Maple,0,C,,Ephemeroptera,Heptageniidae,Macdunnoa ,CG,2
+3,T,Red Maple,2,C,,Trichoptera ,Glossosomatidae,Glossosoma,CF,1
+3,T,Red Maple,4,C,,Trichoptera,Limnephilidae ,Goera,CF,1
+3,T,Red Maple,4,C,,Ephemeroptera,Heptageniidae,Macdunnoa ,CG,2
+2,T,American Sycamore,4,C,1,Trichoptera,Philopotamidae,Chimarra,CF,1
+2,T,American Sycamore,4,C,2,Amphipoda,Talitridae,Hyalella,CG,1
+2,T,American Sycamore,2,C,3,Odonata,Calopterygidae,Caleopteryx,P,1
+2,T,Black Walnut,2,C,2,Coleoptera,Dytiscidae,Agabus,P,2
+2,T,American Sycamore,6,C,1,Decapoda,Cambaridae,Cambarus,CG,1
+2,T,American Sycamore,4,C,1,Ephemeroptera,Caenidae,Caenis,CG,1
+2,T,American Sycamore,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+2,T,American Sycamore,6,C,3,Plecoptera,Chloroperlidae,Haploperla,P,2
+2,T,American Sycamore,6,C,3,Trichoptera,Philopotamidae,Chimarra,CF,2
+2,T,American Sycamore,6,C,2,Ephemeroptera,Leptohyphidae,Tricorythodes,CG,1
+2,T,Black Walnut,6,C,3,Decapoda,Cambaridae,Cambarus,CG,1
+4,T,American Sycamore,4,C,2,Decapoda,Astacidae,,CG,1
+4,T,American Sycamore,2,C,3,Ephemeroptera,Heptageniidae,Stenonema,SC,5
+4,T,American Sycamore,2,C,2,Ephemeroptera,Leptohyphidae,Tricorythodes,CG,2
+4,T,American Sycamore,2,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,2
+4,T,Black Walnut,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,American Sycamore,2,C,2,Plecoptera,Perlidae,Agnetina,P,1
+4,T,American Sycamore,2,C,1,Megaloptera,Sialidae,Sialis,P,1
+4,T,American Sycamore,2,C,2,Plecoptera,Nemouridae,Amphinemura,SH,1
+4,T,American Sycamore,2,C,1,Trichoptera,Hydropsychidae,Hydropsyche,SC,1
+4,T,American Sycamore,2,F,2,Trichoptera,Hydropsychidae,Diplectrona,CF,2
+4,T,American Sycamore,2,F,2,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+4,T,Black Walnut,2,F,2,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+4,T,Black Walnut,2,F,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+4,T,Black Walnut,2,F,1,Trichoptera,Hydropsychidae,Hydropsyche,SC,3
+4,T,Black Walnut,2,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+4,T,Black Walnut,2,F,1,Gastropoda,Physidae,Physa,CG,1
+4,T,American Sycamore,2,F,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+4,T,American Sycamore,2,C,2,Ephemeroptera,Caenidae,Caenis,CG,1
+4,T,American Sycamore,2,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+4,T,Black Walnut,2,C,2,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+4,T,Black Walnut,2,C,2,Trichoptera,Helicopsychidae,Helicopsyche,SC,1
+4,T,Black Walnut,2,C,2,Ephemeroptera,Leptophlebiidae,Habrophlebia,CG,1
+4,T,Black Walnut,2,C,2,Plecoptera,Perlidae,Paragnetina,P,1
+4,T,Black Walnut,2,C,2,Ephemeroptera,Heptageniidae,Stenonema,SC,3
+4,T,Black Walnut,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+4,T,Black Walnut,2,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+4,T,Black Walnut,2,C,2,Trichoptera,Hydropsychidae,Diplectrona,CF,1
+4,T,American Sycamore,2,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+4,T,American Sycamore,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,SC,2
+4,T,American Sycamore,4,C,3,Plecoptera,Perlodidae,Isoperla,P,1
+4,T,American Sycamore,4,C,3,Diptera,Chironomidae,Chironomus,P,3
+4,T,American Sycamore,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,American Sycamore,6,c,3,Megaloptera,Corydalidae,Nigronia,P,1
+4,T,American Sycamore,6,C,3,Plecoptera,Capniidae,Allocapnia,SH,2
+4,T,American Sycamore,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,American Sycamore,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,American Sycamore,6,C,1,Ephemeroptera,Heptageniidae,Epeorus,SC,1
+4,T,American Sycamore,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,7
+4,T,Black Walnut,4,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+4,T,Black Walnut,4,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+4,T,Black Walnut,4,C,2,Ephemeroptera,Caenidae,Caenis,CG,1
+4,T,Black Walnut,4,C,3,Plecoptera,Capniidae,Allocapnia,SH,1
+4,T,Black Walnut,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,Black Walnut,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+4,T,Black Walnut,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,1
+4,T,Black Walnut,6,C,1,Diptera,Chironomidae,Chironomus,P,1
+4,T,Black Walnut,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,American Sycamore,4,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+4,T,American Sycamore,6,F,2,Plecoptera,Perlodidae,Isoperla,P,2
+4,T,American Sycamore,4,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,3
+4,T,American Sycamore,4,C,2,Plecoptera,Capniidae,Allocapnia,SH,7
+4,T,American Sycamore,6,F,2,Trichoptera,Polycentropodidae ,Neureclipsis,CF,2
+4,T,American Sycamore,6,F,2,Plecoptera,Capniidae,Allocapnia,SH,7
+4,T,American Sycamore,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+4,T,American Sycamore,6,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,5
+4,T,Black Walnut,6,C,3,Ephemeroptera,Caenidae,Caenis,CG,3
+4,T,Black Walnut,6,C,3,Trichoptera,Polycentropodidae ,Neureclipsis,CF,1
+4,T,American Sycamore,6,F,1,Plecoptera,Capniidae,Allocapnia,SH,2
+4,T,American Sycamore,6,F,1,Ephemeroptera,Heptageniidae,,SC,1
+4,T,American Sycamore,6,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+4,T,American Sycamore,6,F,1,Plecoptera,Chloroperlidae,Alloperla,P,1
+4,T,American Sycamore,6,F,1,Plecoptera,Perlodidae,Remenus,P,1
+4,T,American Sycamore,6,F,1,Plecoptera,Leuctridae,Leuctra,SH,3
+4,T,American Sycamore,6,F,1,Diptera,Chironomidae,,,2
+4,T,Black Walnut,6,C,3,Plecoptera,Capniidae,Allocapnia,SH,1
+4,T,American Sycamore,6,C,2,Ephemeroptera,Leptophlebiidae,Leptophlebia,CG,1
+4,T,American Sycamore,6,C,2,Plecoptera,Capniidae,Allocapnia,SH,3
+4,T,Black Walnut,6,F,2,Plecoptera,Chloroperlidae,Alloperla,,1
+4,T,American Sycamore,6,C,2,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+4,T,Black Walnut,6,F,2,Plecoptera,Chloroperlidae,Haploperla,P,1
+5,T,American Beech,2,C,1,Diptera,Tipulidae,Antocha,CG,5
+5,T,American Beech,2,C,1,Ephemeroptera,Baetidae,Baetis,CG,1
+5,T,American Beech,2,C,1,Ephemeroptera,Ephemerellidae,Drunella,SC,2
+5,T,American Beech,2,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,American Beech,2,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,American Beech,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,American Beech,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+5,T,American Beech,2,F,1,Diptera,Tipulidae,Antocha,CG,1
+5,T,American Beech,2,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,American Beech,2,F,2,Diptera,Tipulidae,,CG,1
+5,T,American Beech,2,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+5,T,American Beech,4,C,1,Diptera,Chironomidae,,Various,1
+5,T,American Beech,4,C,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,American Beech,4,C,1,Plecoptera,Chloroperlidae,,P,3
+5,T,American Beech,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+5,T,American Beech,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,17
+5,T,American Beech,4,C,1,Trichoptera,Phryganeidae,Ptilostomis,SH,1
+5,T,American Beech,4,C,3,Coleoptera,Elmidae,Dubiraphia,CG,1
+5,T,American Beech,4,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,2
+5,T,American Beech,4,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,American Beech,4,C,3,Ephemeroptera,Leptophlebiidae,Leptophlebia,CG,1
+5,T,American Beech,4,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+5,T,American Beech,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+5,T,American Beech,4,F,1,Plecoptera,Leuctridae,Leuctra,SH,1
+5,T,American Beech,4,F,1,Plecoptera,Perlodidae,Isoperla,P,8
+5,T,American Beech,4,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+5,T,American Beech,6,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,3
+5,T,American Beech,6,C,1,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,CG,3
+5,T,American Beech,6,C,1,Plecoptera,Chloroperlidae,Sweltsa,P,1
+5,T,American Beech,6,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,9
+5,T,American Beech,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,16
+5,T,American Beech,6,C,2,Diptera,Chironomidae,,Various,3
+5,T,American Beech,6,C,2,Diptera,Tipulidae,,CG,1
+5,T,American Beech,6,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,2
+5,T,American Beech,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,American Beech,6,C,3,Decapoda,Cambaridae,,CG,1
+5,T,American Beech,6,C,3,Diptera,Chironomidae,,Various,4
+5,T,American Beech,6,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,American Beech,6,C,3,Plecoptera,Chloroperlidae,,P,3
+5,T,American Beech,6,C,3,Plecoptera,Leuctridae,Leuctra,SH,1
+5,T,American Beech,6,C,3,Plecoptera,Perlodidae,Isoperla,P,6
+5,T,American Beech,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,12
+5,T,American Beech,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,14
+5,T,American Beech,6,F,1,Diptera,Chironomidae,,Various,1
+5,T,American Beech,6,F,1,Diptera,Chironomidae,,Various,1
+5,T,American Beech,6,F,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,American Beech,6,F,1,Plecoptera,Capniidae,Allocapnia,SH,5
+5,T,American Beech,6,F,1,Plecoptera,Chloroperlidae,Haploperla,P,2
+5,T,American Beech,6,F,1,Plecoptera,Perlodidae,Isoperla,P,22
+5,T,American Beech,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+5,T,American Beech,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,American Beech,6,F,2,Diptera,Chironomidae,,Various,1
+5,T,American Beech,6,F,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,American Beech,6,F,2,Plecoptera,Chloroperlidae,Haploperla,P,17
+5,T,American Beech,6,F,2,Plecoptera,Perlodidae,Isoperla,P,15
+5,T,American Beech,6,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,American Beech,6,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,Eastern Cottonwood,2,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+5,T,Eastern Cottonwood,2,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,Eastern Cottonwood,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+5,T,Eastern Cottonwood,2,C,3,Decapoda,Cambaridae,,CG,1
+5,T,Eastern Cottonwood,4,C,1,Ephemeroptera,Baetidae,Baetis,CG,1
+5,T,Eastern Cottonwood,4,C,1,Ephemeroptera,Heptageniidae,Epeorus,SH,1
+5,T,Eastern Cottonwood,4,C,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+5,T,Eastern Cottonwood,4,C,1,Plecoptera,Chloroperlidae,Haploperla,P,1
+5,T,Eastern Cottonwood,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+5,T,Eastern Cottonwood,4,C,3,Diptera,Tipulidae,Antocha,CG,1
+5,T,Eastern Cottonwood,4,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,3
+5,T,Eastern Cottonwood,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+5,T,Eastern Cottonwood,4,F,1,Plecoptera,Perlodidae,Isoperla,P,15
+5,T,Eastern Cottonwood,4,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,Eastern Cottonwood,6,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,2
+5,T,Eastern Cottonwood,6,C,1,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,CG,1
+5,T,Eastern Cottonwood,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,3
+5,T,Eastern Cottonwood,6,C,1,Plecoptera,Capniidae,Paracapnia,SH,3
+5,T,Eastern Cottonwood,6,C,1,Plecoptera,Leuctridae,Leuctra,SH,5
+5,T,Eastern Cottonwood,6,C,1,Plecoptera,Perlodidae,Isoperla,P,5
+5,T,Eastern Cottonwood,6,C,1,Plecoptera,Taeniopterygidae,Strophopteryx,SH,2
+5,T,Eastern Cottonwood,6,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+5,T,Eastern Cottonwood,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+5,T,Eastern Cottonwood,6,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,2
+5,T,Eastern Cottonwood,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+5,T,Eastern Cottonwood,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+5,T,Eastern Cottonwood,6,F,2,Diptera,Chironomidae,,Various,2
+5,T,Eastern Cottonwood,6,F,2,Ephemeroptera,Heptageniidae,Stenacron,SC,7
+5,T,Eastern Cottonwood,6,F,2,Plecoptera,Chloroperlidae,Haploperla,P,3
+5,T,Eastern Cottonwood,6,F,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+1,T,Red Maple,2,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+1,T,Red Maple,4,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+1,T,Red Maple,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,5
+1,T,Red Maple,4,C,2,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+1,T,Red Maple,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+1,T,Red Maple,6,C,1,Plecoptera,Leuctridae,Leuctra,SH,1
+1,T,Red Maple,6,C,1,Ephemeroptera,Caenidae,Caenis,CG,1
+1,T,Red Maple,6,C,1,Trichoptera,Polycentropodidae ,Polycentropus,P,1
+1,T,Red Maple,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,1
+1,T,Red Maple,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+1,T,Red Maple,6,C,3,Plecoptera,Chloroperlidae ,Haploperla,P,2
+1,T,Red Maple,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+1,T,Red Maple,6,C,3,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+1,T,Red Maple,6,C,3,Plecoptera,Leuctridae,Leuctra,SH,2
+1,T,Wild Grape,2,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+1,T,Wild Grape,2,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+1,T,Wild Grape,2,C,1,Trichoptera,Leptoceridae,Nectopsyche,SH,1
+1,T,Wild Grape,6,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+1,T,Wild Grape,6,F,1,Plecoptera,Perlodidae,Isogenoides,P,1
+1,T,Wild Grape,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+1,T,Wild Grape,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+1,T,Wild Grape,6,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+1,T,Wild Grape,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,5
+1,T,Wild Grape,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,1
+1,T,Wild Grape,6,C,1,Ephemeroptera,Caenidae,Caenis,SH,1
+1,T,Wild Grape,6,C,1,Diptera,Chironomidae,,CG,1
+1,T,Wild Grape,6,C,2,Ephemeroptera,Ephemerellidae,Drunella,SC,1
+1,T,Wild Grape,6,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+1,T,Red Maple,6,F,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+1,T,Red Maple,6,F,2,Ephemeroptera,Ephemerellidae,Drunella,SC,1
+1,T,Red Maple,6,F,2,Plecoptera,Capniidae,Allocapnia,SH,1
+1,T,Red Maple,6,F,2,Plecoptera,Leuctridae,Leuctra,SH,1
+1,T,Red Maple,6,F,2,Ephemeroptera,Caenidae,Caenis,SH,1
+6,T,Alder,2,C,2,Ephemeroptera,Heptageniidae,Stenonema,SC,2
+6,T,Alder,2,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,3
+6,T,Red Oak,4,C,2,Plecoptera,Chloroperlidae,Alloperla,P,1
+6,T,Red Oak,4,C,2,Trichoptera,Philopotamidae,Wormaldia,CF,1
+6,T,Alder,4,C,2,Diptera,Chironomidae,,Various,1
+6,T,Alder,4,C,1,Diptera,Chironomidae,,Various,1
+6,T,Alder,4,C,1,Trichoptera,Philopotamidae,Wormaldia,CF,1
+6,T,Alder,4,C,1,Plecoptera,Perlidae,Hansoperla,P,1
+6,T,Alder,4,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+6,T,Alder,4,C,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+6,T,Alder,4,C,1,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+6,T,Red Oak,4,C,3,Diptera,Chironomidae,,Various,2
+6,T,Red Oak,4,C,3,Plecoptera,Chloroperlidae,Alloperla,P,2
+6,T,Red Oak,4,C,3,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+6,T,Red Oak,4,C,3,Ephemeroptera,Leptophlebiidae,Leptophlebia,CG,1
+6,T,Red Oak,4,C,3,Plecoptera,Perlidae,Hansoperla,P,1
+6,T,Red Oak,4,C,1,Diptera,Chironomidae,,Various,2
+6,T,Red Oak,4,C,1,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+6,T,Red Oak,4,C,1,Plecoptera,Chloroperlidae,Alloperla,P,2
+6,T,Red Oak,4,C,1,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+6,T,Red Oak,4,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+6,T,Red Oak,4,C,1,Ephemeroptera,Oligoneuriidae,Isonychia,,1
+6,T,Alder,4,C,3,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+6,T,Alder,4,C,3,Ephemeroptera,Leptophlebiidae,Leptophlebia,CG,1
+6,T,Alder,4,C,3,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+6,T,Alder,6,C,1,Diptera,Chironomidae,,Various,1
+6,T,Alder,6,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+6,T,Alder,6,C,1,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+6,T,Alder,6,C,1,Plecoptera,Perlidae,Hansoperla,P,1
+6,T,Alder,6,C,1,Plecoptera,Chloroperlidae,Alloperla,P,2
+6,T,Alder,6,C,1,Plecoptera,Chloroperlidae,Utaperla,P,1
+6,T,Red Oak,6,C,3,Plecoptera,Capniidae,Paracapnia,SH,1
+6,T,Red Oak,6,C,3,Plecoptera,Capniidae,Nemocapina,SH,1
+6,T,Red Oak,6,C,3,Plecoptera,Capniidae,Damaged,SH,2
+6,T,Red Oak,6,C,3,Plecoptera,Capniidae,Paracapnia,SH,1
+6,T,Red Oak,6,C,3,Plecoptera,Chloroperlidae,Utaperla,P,3
+6,T,Red Oak,6,C,3,Plecoptera,Chloroperlidae,Alloperla,P,2
+6,T,Alder,6,C,3,Diptera,Athericidae,,P,1
+6,T,Alder,6,C,3,Plecoptera,Capniidae,Paracapnia,SH,3
+6,T,Alder,6,C,3,Ephemeroptera,Leptophlebiidae,Leptophlebia,CG,2
+6,T,Alder,6,C,3,Plecoptera,Capniidae,Nemocapina,SH,1
+6,T,Alder,6,C,3,Ephemeroptera,Caenidae,Caenidae,CG,1
+6,T,Alder,6,C,3,Trichoptera,Hydropsychidae,Macrostemum,CF,3
+6,T,Red Oak,6,C,2,Plecoptera,Capniidae,Paracapnia,SH,2
+6,T,Red Oak,6,C,1,Diptera,Athericidae,,P,1
+6,T,Red Oak,6,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,3
+6,T,Red Oak,6,C,1,Ephemeroptera,Leptophlebiidae,Paraleptophlebia,CG,1
+6,T,Red Oak,6,C,1,Plecoptera,Leuctridae,Paraleuctra,SH,1
+6,T,Red Oak,6,C,1,Plecoptera,Capniidae,Nemocapina,SH,2
+6,T,Alder,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,4
+6,T,Alder,6,C,2,Plecoptera,Capniidae,Allocapnia,SH,2
+6,T,Alder,6,C,2,Plecoptera,Taeniopterygidae,Strophopteryx,SH,1
+6,T,Alder,6,C,2,Diptera,Chironomidae,,Various,1
+7,W,Wild Grape,2,C,2,Diptera,Chironomidae,,GG,1
+7,W,Wild Grape,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+7,W,Wild Grape,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+7,W,Wild Grape,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,7
+7,W,Wild Grape,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+7,W,Wild Grape,4,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,31
+7,W,Wild Grape,4,C,2,Ephemeroptera,Caenidae,Caenis,CG,1
+7,W,Wild Grape,4,C,2,Trichoptera,Glossosomatidae,Glossosoma,SC,1
+7,W,Wild Grape,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,11
+7,W,Red Maple,2,C,1,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+7,W,Red Maple,2,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,7
+7,W,Red Maple,2,C,2,Trichoptera,Odontoceridae,Psilotreta,SC,5
+7,W,Red Maple,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+7,W,Red Maple,2,C,2,Trichoptera,Glossosomatidae,Glossosoma,SC,1
+7,W,Red Maple,2,C,2,Diptera,Tipulidae,Antocha,CG,1
+7,W,Red Maple,2,C,2,Ephemeroptera,Caenidae,Caenis,CG,2
+7,W,Red Maple,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,5
+7,W,Red Maple,2,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+7,W,Red Maple,2,C,3,Diptera,Simuliidae,,CG,1
+7,W,Red Maple,2,C,3,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+7,W,Red Maple,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,13
+7,W,Red Maple,4,C,1,Trichoptera,Philopotamidae,Chimarra,CF,2
+7,W,Red Maple,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+7,W,Red Maple,4,C,1,Trichoptera,Limnephilidae,Frenesia,SH,1
+7,W,Red Maple,4,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,1
+7,W,Red Maple,4,C,1,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+7,W,Red Maple,4,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,14
+7,W,Red Maple,4,C,2,Ephemeroptera,Ephemeridae,Ephemera,CG,1
+7,W,Red Maple,4,C,2,Plecoptera,Nemouridae,Nemoura,SH,1
+7,W,Red Maple,4,C,2,Diptera,Tipulidae,Antocha,CG,1
+7,W,Red Maple,4,C,2,Trichoptera,Helicopsychidae,Helicopsyche,SC,1
+7,W,Red Maple,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+7,W,Red Maple,4,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,11
+7,W,Red Maple,4,C,3,Diptera,Athericidae,,CG,1
+7,W,Red Maple,4,C,3,Trichoptera,Hydroptilidae,Hydroptila,CG,1
+7,W,Red Maple,4,C,3,Ephemeroptera,Heptageniidae,Stenonema,SC,2
+7,W,Red Maple,6,C,1,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+7,W,Red Maple,6,C,1,Plecoptera,Chloroperlidae,Haploperla,P,1
+7,W,Red Maple,6,C,1,Diptera,Chironomidae,,CG,1
+7,W,Red Maple,6,C,2,Diptera,Chironomidae,,CG,1
+7,W,Red Maple,6,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,8
+7,W,Red Maple,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,1
+7,W,Red Maple,6,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+7,W,Red Maple,6,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+7,W,Red Maple,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,13
+7,W,Red Maple,6,F,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,7
+7,W,Red Maple,6,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+7,W,Red Maple,6,F,1,Plecoptera,Chloroperlidae,Haploperla,P,4
+10,W,American Beech,4,C,3,Ephemeroptera,Heptageniidae,Leucrocuta,SC,1
+10,W,American Beech,4,C,3,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+10,W,American Beech,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+10,W,American Beech,2,C,3,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+10,W,American Beech,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+10,W,American Beech,2,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+10,W,American Beech,2,C,3,,,,,1
+10,W,American Beech,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+10,W,American Beech,4,C,1,Turbellaria,,,,1
+10,W,American Beech,4,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+10,W,American Beech,2,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,9
+10,W,American Beech,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,5
+10,W,American Beech,2,C,1,Plecoptera,Perlidae,Paragnetina,P,1
+10,W,Eastern Cottonwood,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+10,W,Eastern Cottonwood,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+10,W,Eastern Cottonwood,4,C,3,Ephemeroptera,Heptageniidae,Leucrocuta,SC,1
+10,W,Eastern Cottonwood,4,C,3,Plecoptera,Perlodidae,Isoperla,P,1
+10,W,Eastern Cottonwood,2,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+10,W,Eastern Cottonwood,0,C,3,Coleoptera,Psephenidae,Psephenus,SC,1
+9,W,Red Oak,2,C,2,Trichoptera,Hydropsychidae,Diplectrona,CF,1
+9,W,Alder,2,C,2,Trichoptera,Hydropsychidae,Diplectrona,CF,1
+9,W,Alder,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+9,W,Alder,2,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+9,W,Alder,6,C,1,Ephemeroptera,Baetidae,Baetis,CG,1
+9,W,Alder,6,C,2,Ephemeroptera,Heptageniidae,Heptagenia,SC,1
+9,W,Red Oak,2,C,3,Trichoptera,Polycentropodidae ,Nyctiophylax,P,1
+9,W,Red Oak,2,C,3,Trichoptera,Hydropsychidae,Diplectrona,CF,2
+9,W,Red Oak,4,C,1,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+9,W,Alder,6,C,2,Plecoptera,Capniidae,Allocapnia,SH,4
+9,W,Red Oak,4,C,1,Trichoptera,Hydropsychidae,Diplectrona,CF,2
+9,W,Red Oak,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+9,W,Alder,4,C,3,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+9,W,Alder,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+9,W,Alder,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,6
+9,W,Alder,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+9,W,Alder,4,C,1,Ephemeroptera,Caenidae,Caenis,CG,2
+9,W,Alder,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,1
+9,W,Alder,4,C,1,Plecoptera,Chloroperlidae,Haploperla,P,1
+9,W,Red Oak,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,8
+9,W,Alder,4,C,1,Plecoptera,Emerging,,P,1
+9,W,Red Oak,6,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+9,W,Red Oak,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,2
+9,W,Red Oak,6,C,1,Ephemeroptera,Capniidae,Caenis,CG,1
+9,W,Red Oak,6,C,2,Diptera,Chironomidae,,CG,1
+9,W,Red Oak,6,C,2,Trichoptera,Limnephilidae,Ironoquia,SH,1
+9,W,Red Oak,6,C,1,Trichoptera,Philopotamidae,Chimarra,CF,1
+9,W,Red Oak,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,7
+9,W,Alder,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+9,W,Alder,6,C,3,Trichoptera,Philopotamidae,Chimarra,CF,1
+9,W,Alder,6,C,3,Plecoptera,Chloroperlidae,Haploperla,P,1
+9,W,Alder,6,C,3,Plecoptera,Capniidae,Caenis,CG,1
+9,W,Red Oak,6,C,1,Plecoptera,Chloroperlidae,Alloperla,P,2
+9,W,Alder,4,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,4
+9,W,Red Oak,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+9,W,Red Oak,4,C,2,Ephemeroptera,Heptageniidae,Stenacron,SC,1
+9,W,Red Oak,6,F,1,Plecoptera ,Perlodidae,Isoperla,P,3
+9,W,Red Oak,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+9,W,Red Oak,4,C,3,Plecoptera,Capniidae,Caenis,CG,1
+12,W,Red Oak,6,C,1,Plecoptera,Chloroperlidae,Haploperla,P,3
+12,W,Red Oak,6,C,1,Ephemeroptera,Heptageniidae,Stenonema,SC,2
+12,W,Red Oak,6,C,1,Plecoptera,Capniidae,Allocapnia,SC,1
+12,W,Red Oak,6,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,5
+12,W,Red Oak,6,C,1,Trichoptera,Helicopsychidae,Helicopsyche,SC,4
+12,W,Red Oak,6,C,1,Plecoptera,Chloroperlidae,Haploperla,P,4.5
+12,W,Alder,6,C,1,Plecoptera,Leuctridae,Leuctra,SH,1
+12,W,Alder,6,C,1,Plecoptera,Chloroperlidae,Alloperla,P,1
+12,W,Alder,6,C,1,Diptera,Dixidae,Dixa,CG,2
+12,W,Red Oak,6,C,2,Trichoptera,Odontoceridae,Psilotreta,S,1
+12,W,Red Oak,6,C,2,Ephemeroptera,Heptageniidae,Stenonema,SC,3
+12,W,Red Oak,6,C,2,Trichoptera,Hydropsychidae,Helicopsyche,CF,2
+12,W,Red Oak,6,C,2,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+12,W,Alder,2,C,2,Decapoda,Cambaridae,Cambarus,CG,1
+12,W,Alder,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+12,W,Alder,2,C,3,Megaloptera,Sialidae,Sialis,P,1
+12,W,Alder,2,C,3,Ephemeroptera,Isonychiidae,Isonychia,CF,2
+12,W,Alder,2,C,1,Ephemeroptera,Isonychiidae,Isonychia,CF,2
+12,W,Alder,2,C,1,Trichoptera,Hydropsychidae,Macrostemum,CF,2
+12,W,Alder,2,C,1,Ephemeroptera,Heptageniidae,Leucrocuta,SC,1
+12,W,Red Oak,2,C,2,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+12,W,Red Oak,2,C,2,Plecoptera,Perlidae ,Neoperla,P,1
+12,W,Red Oak,2,C,2,Trichoptera,Hydropsychidae,Macrostemum,CF,3
+12,W,Alder,4,C,1,Decapoda,Cambaridae,Cambarus,CG,1
+12,W,Alder,4,C,2,Decapoda,Cambaridae,Cambarus,CG,1
+12,W,Alder,6,C,2,Trichoptera,Hydropsychidae,Macrostemum,CF,3
+12,W,Alder,6,C,2,Ephemeroptera,Heptageniidae,Leucrocuta,SC,6
+12,W,Alder,6,C,2,Plecoptera,Perlodidae,Remenus,P,3
+12,W,Alder,6,C,3,Plecoptera,Chloroperlidae,Alloperla,P,1
+12,W,Alder,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+12,W,Red Oak,6,C,1,Trichoptera,Hydropsychidae,Macrostemum,CF,2
+12,W,Red Oak,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+12,W,Red Oak,6,C,1,Trichoptera,Thremmatidae,Neophylax,SC,1
+12,W,Red Oak,6,C,1,Trichoptera,Hydropsychidae,Arctopsyche,CF,1
+8,W,Black Walnut,0,C,2,Trichoptera,Hydropsychidae,Diplectrona,CF,1
+8,W,Black Walnut,0,C,2,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+8,W,Black Walnut,0,C,2,Diptera,Chironomidae,,Various,1
+8,W,American Sycamore,6,C,3,Ephemeroptera,Caenidae,Caenis,CG,1
+8,W,American Sycamore,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,20
+8,W,American Sycamore,6,C,3,Trichoptera,Philopotamidae,Chimarra,CF,3
+8,W,American Sycamore,6,C,3,Plecoptera,Capniidae,Allocapnia,SH,2
+8,W,American Sycamore,6,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,4
+8,W,American Sycamore,6,C,1,Trichoptera,Philopotamidae,Chimarra,CF,1
+8,W,American Sycamore,6,F,2,Trichoptera,Hydropsychidae,Macrostemum,CF,1
+8,W,American Sycamore,6,F,2,Plecoptera,Capniidae,Allocapnia,SH,1
+8,W,American Sycamore,6,C,1,Ephemeroptera,Caenidae,Caenis,CG,5
+8,W,American Sycamore,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,5
+8,W,American Sycamore,6,C,1,Gastropoda,Physidae,Physa,CG,1
+8,W,Black Walnut,6,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,7
+8,W,Black Walnut,6,C,3,Plecoptera,Chloroperlidae,Haploperla,P,3
+8,W,Black Walnut,6,C,3,Decapoda,Cambaridae,Cambarus,CG,1
+8,W,Black Walnut,6,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+8,W,Black Walnut,6,C,2,Plecoptera,Capniidae,Allocapnia,SH,1
+8,W,Black Walnut,6,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,3
+8,W,Black Walnut,2,C,3,Trichoptera,Hydropsychidae,Diplectrona,CF,3
+8,W,Black Walnut,2,C,3,Ephemeroptera,Isonychiidae,Isonychia,CF,2
+8,W,Black Walnut,2,C,3,Diptera,Tipulidae,Tipula,SH,1
+8,W,Black Walnut,2,C,3,Ephemeroptera,Ephemerellidae,Eurylophella,CG,1
+8,W,Black Walnut,2,C,1,Ephemeroptera,Ephemeridae,Hexagenia,CG,1
+8,W,Black Walnut,2,C,1,Ephemeroptera,Heptageniidae,Rhithrogena,SC,1
+8,W,Black Walnut,2,C,1,Trichoptera,Hydropsychidae,Diplectrona,CF,2
+8,W,American Sycamore,2,C,1,Decapoda,Cambaridae,,CG,1
+8,W,American Sycamore,2,C,1,Ephemeroptera,Isonychiidae,Isonychia,CF,2
+8,W,American Sycamore,2,C,3,Plecoptera,Perlidae,Agnetina,P,2
+8,W,American Sycamore,2,C,3,Plecoptera,Capniidae,Allocapnia,SH,4
+8,W,American Sycamore,2,C,3,Trichoptera,Hydropsychidae,Arctopsyche,CF,1
+8,W,American Sycamore,2,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,7
+8,W,American Sycamore,2,C,3,Diptera,Ceratopogonidae,,P,1
+8,W,American Sycamore,2,C,3,Ephemeroptera,Heptageniidae,Heptagenia,SC,1
+8,W,American Sycamore,6,F,1,Plecoptera,Capniidae,Allocapnia,SH,4
+8,W,American Sycamore,6,F,1,Trichoptera,Hydropsychidae,Diplectrona,CF,6
+8,W,American Sycamore,6,C,2,Trichoptera,Philopotamidae,Chimarra,CF,4
+8,W,American Sycamore,6,C,2,Ephemeroptera,Caenidae,Caenis,CG,4
+8,W,American Sycamore,6,C,2,Plecoptera,Capniidae,Allocapnia,SH,9
+8,W,American Sycamore,6,C,2,Plecoptera,Chloroperlidae,Alloperla,P,7
+8,W,American Sycamore,6,C,2,Trichoptera,Hydropsychidae,Diplectrona,CF,2
+8,W,American Sycamore,6,C,2,Plecoptera,Taeniopterygidae,Taeniopteryx,SH,1
+8,W,American Sycamore,6,C,2,Ephemeroptera,Isonychiidae,Isonychia,CF,1
+8,W,American Sycamore,6,C,2,Plecoptera,Leuctridae,Leuctra,SH,4
+11,W,American Beech,2,C,1,Diptera,Chironomidae,,CG,1
+11,W,American Beech,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,5
+11,W,American Beech,4,C,2,Plecoptera,Perlodidae,Isoperla,P,2
+11,W,American Beech,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+11,W,American Beech,2,F,1,Trichoptera,Philopotamidae,Chimarra,CF,2
+11,W,American Beech,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+11,W,American Beech,4,C,1,Ephemeroptera,Leptohyphidae,Tricorythodes,CG,2
+11,W,American Beech,4,C,1,Trichoptera,Philopotamidae,Chimarra,CF,1
+11,W,American Beech,4,C,1,Trichoptera,Polycentropodidae ,Polycentropus,P,3
+11,W,American Beech,2,F,1,Ephemeroptera,Leuctridae,Leuctra,SH,1
+11,W,American Beech,4,C,3,Trichoptera,Philopotamidae,Chimarra,CF,1
+11,W,American Beech,4,C,2,Plecoptera,Capniidae,Allocapnia,SH,1
+11,W,American Beech,6,C,1,Plecoptera,Capniidae,Paracapnia,SH,2
+11,W,American Beech,6,C,1,Plecoptera,Taeniopterygidae,Strophopteryx,SH,1
+11,W,American Beech,6,C,1,Odonata,Coenagrionidae,Enallagma,P,1
+11,W,American Beech,6,C,1,Plecoptera,Chloroperlidae,Sweltsa,P,2
+11,W,American Beech,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+11,W,American Beech,6,C,2,Plecoptera,Chloroperlidae,Sweltsa,P,1
+11,W,American Beech,6,C,2,Plecoptera,Chloroperlidae,Haploperla,P,2
+11,W,American Beech,6,C,2,Plecoptera,Capniidae,Allocapnia,SH,2
+11,W,American Beech,6,C,2,Ephemeroptera,Baetidae,Baetis,CG,1
+11,W,American Beech,6,C,2,Ephemeroptera,Leuctridae,Leuctra,SH,1
+11,W,American Beech,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+11,W,American Beech,6,C,3,Plecoptera,Leuctridae,Leuctra,SH,4
+11,W,American Beech,6,C,3,Plecoptera,Capniidae,Paracapnia,SH,2
+11,W,American Beech,6,C,3,Plecoptera,Taeniopterygidae,Strophopteryx,SH,1
+11,W,American Beech,6,C,3,Plecoptera,Nemouridae,Nemoura,SH,1
+11,W,American Beech,6,C,3,Plecoptera,Pteronarcyidae,Pteronarcys,SH,2
+11,W,American Beech,2,C,2,Plecoptera,Leuctridae,Leuctra,SH,1
+11,W,American Beech,2,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+11,W,Eastern Cottonwood,2,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+11,W,Eastern Cottonwood,2,C,2,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,3
+11,W,Eastern Cottonwood,2,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+11,W,Eastern Cottonwood,2,C,3,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,2
+11,W,Eastern Cottonwood,2,F,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+11,W,Eastern Cottonwood,4,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+11,W,Eastern Cottonwood,4,C,1,Trichoptera,Hydropsychidae,Cheumatopsyche,CF,1
+11,W,Eastern Cottonwood,4,C,2,Trichoptera,Hydropsychidae,Hydropsyche,CF,1
+11,W,Eastern Cottonwood,4,C,2,Ephemeroptera ,Heptageniidae,Stenacron,SC,1
+11,W,Eastern Cottonwood,4,C,2,Trichoptera,Glossosomatidae,Glossosoma,SC,1
+11,W,Eastern Cottonwood,4,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,4
+11,W,Eastern Cottonwood,6,C,1,Plecoptera,Leuctridae,Leuctra,SH,3
+11,W,Eastern Cottonwood,6,C,1,Plecoptera,Perlodidae,Isoperla,P,5
+11,W,Eastern Cottonwood,6,C,1,Trichoptera,Hydropsychidae,Hydropsyche,CF,3
+11,W,Eastern Cottonwood,6,C,1,Plecoptera,Chloroperlidae,Haploperla,P,4
+11,W,Eastern Cottonwood,6,C,1,Plecoptera,Capniidae,Allocapnia,SH,3
+11,W,Eastern Cottonwood,6,C,3,Trichoptera,Hydropsychidae,Hydropsyche,CF,2
+11,W,Eastern Cottonwood,6,C,3,Plecoptera,Chloroperlidae,Haploperla,P,3
+11,W,Eastern Cottonwood,6,C,3,Plecoptera,Leuctridae,Leuctra,SH,8
+11,W,Eastern Cottonwood,6,C,3,Plecoptera,Capniidae,Allocapnia,SH,5
+11,W,Eastern Cottonwood,6,C,3,Diptera,Chironomidae,,CG,1
+11,W,Eastern Cottonwood,6,C,3,Plecoptera,Perlodidae,Isoperla,P,3
+11,W,Eastern Cottonwood,6,C,3,Plecoptera,Capniidae,Paracapnia,SH,3

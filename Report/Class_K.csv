@@ -1,0 +1,49 @@
+Treatment,Group,Species,K
+C,1,Red Maple,0.0171
+F,1,Red Maple ,0.0133
+C,1,Wild Grape ,0.1358
+F,1,Wild Grape ,0.0354
+C,2,American Sycamore,-0.0019
+F,2,American Sycamore,-0.0004
+C,2,Black Walnut,0.0753
+F,2,Black Walnut,0.0029
+F,3,Red Maple,0.0079
+F,3,Red Maple ,0.0233
+C,3,Wild Grape ,0.1922
+F,3,Wild Grape ,0.0207
+C,4,American Sycamore,0.0146
+F,4,American Sycamore,0.0189
+C,4,Black Walnut,0.0614
+F,4,Black Walnut,0.0273
+C,5,American Beech,0.00637
+F,5,American Beech,0.00969
+C,5,Eastern Cottonwood,0.00987
+F,5,Eastern Cottonwood,0.00909
+C,6,Red Oak,0.0117
+F,6,Red Oak,0.0119
+C,6,Alder,0.0137
+F,6,Alder,0.0114
+C,7,Red Maple,0.00917
+F,7,Red Maple ,0.0072
+C,7,Wild Grape ,0.0181
+F,7,Wild Grape ,0.00355
+C,8,American Sycamore,0.0079
+F,8,American Sycamore,0.0026
+C,8,Black Walnut,0.0319
+F,8,Black Walnut,0.0111
+C,9,Alder,0.0292
+F,9,Alder,0.0138
+C,9,Red Oak,0.008
+F,9,Red Oak,0.0103
+C,10,American Beech,0.272184197
+F,10,American Beech,0.130013133
+C,10,Eastern Cottonwood,0.248125492
+F,10,Eastern Cottonwood,0.091793322
+C,11,American Beech,0.015906
+F,11,American Beech,0.013364
+C,11,Eastern Cottonwood,0.023877
+F,11,Eastern Cottonwood,0.021075
+C,12,Red Oak,0.0172
+F,12,Red Oak,0.0095
+C,12,Alder,0.0164
+F,12,Alder,0.0078

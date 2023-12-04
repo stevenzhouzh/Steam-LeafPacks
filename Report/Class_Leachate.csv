@@ -1,0 +1,27 @@
+Group,Species,Percent_remaining,Double_SE
+1,Red Maple ,0.833333333,
+1,Wild Grape ,0.813333333,
+2,American Sycamore,0.937177861,
+2,Black Walnut,1.040322584,
+3,Red Maple ,0.868418943,
+3,Wild Grape ,0.774221261,
+4,American Sycamore,0.946666667,
+4,Black Walnut,0.913621263,
+5,American Beech,0.815533981,
+5,Eastern Cottonwood,0.806666667,
+6,Red Oak,0.930232558,
+6,Alder,0.803278689,
+7,Red Maple ,0.935555556,0.01351725
+7,Wild Grape ,0.804444444,0.048737138
+8,American Sycamore,0.890399492,0.031017353
+8,Black Walnut,0.880339413,0.021805587
+9,Black Walnut,0.863333333,
+9,American Sycamore,0.885993485,
+9,Alder,0.778114196,0.019047763
+9,Red Oak,0.890683097,0.014759136
+10,American Beech,0.900662252,0.23040222
+10,Eastern Cottonwood,0.919191919,0.221814516
+11,American Beech,0.888150609,0.015503876
+11,Eastern Cottonwood,0.7655556,0.018189673
+12,Red Oak,0.957537108,0.082179163
+12,Alder,0.81603971,0.010338071
